@@ -1,0 +1,77 @@
+{
+  "families": [
+    {
+      "childRefs": [
+        {
+          "ref": "I2*2ea13b92-74b1-4884-9f2e-eb6e2e676a82"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1*2d6b7cc0-1e6b-4443-bd44-e5fa2186ec6e"
+        }
+      ],
+      "id": "F1*1ac539b3-cbfe-48b3-abaf-0f8a78443e38"
+    }
+  ],
+  "head": {
+    "charset": {
+      "value": "UTF-8"
+    },
+    "date": {
+      "time": "16:44:27",
+      "value": "3 NOV 2026"
+    },
+    "file": "2.json",
+    "gedc": {
+      "form": "LINEAGE-LINKED",
+      "vers": "5.5.1"
+    },
+    "lang": "Japanese",
+    "sour": {
+      "name": "Tarombo",
+      "value": "TAROMBO",
+      "vers": "0.7.4 (44da132)"
+    }
+  },
+  "people": [
+    {
+      "fams": [
+        {
+          "ref": "F1*1ac539b3-cbfe-48b3-abaf-0f8a78443e38"
+        }
+      ],
+      "id": "I1*2d6b7cc0-1e6b-4443-bd44-e5fa2186ec6e",
+      "names": [
+        {
+          "value": "person1 //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F1*1ac539b3-cbfe-48b3-abaf-0f8a78443e38"
+        }
+      ],
+      "id": "I2*2ea13b92-74b1-4884-9f2e-eb6e2e676a82",
+      "names": [
+        {
+          "value": "person2 //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    }
+  ]
+}
